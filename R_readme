@@ -1,0 +1,3 @@
+Readme for R file.
+The R script is used for statistical analysis. T-Tests are used to compare means between different variable in the same dataset. Tests with alpha values
+greater than 0.05 are considered too close to use in the machine learning algorithm,
